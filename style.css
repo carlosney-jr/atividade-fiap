@@ -1,0 +1,26 @@
+.navbar {
+    background-image: linear-gradient(270deg, #8c52ff, #5ce1e6);
+}
+
+.nav-item {
+    background-image: linear-gradient(180deg, #9d3bad, #c1a0e0);
+    color: #ffffff;
+    border-radius: 25rem;
+}
+
+.nav-item > a {
+    color: #ffffff;
+}
+
+.navbar-nav .nav-link.show {
+    background-image: linear-gradient(180deg, #9d3bad, #c1a0e0);
+    border-radius: 25rem;
+    color: #b0b0b0 !important;
+}
+
+.btn {
+    background-image: linear-gradient(180deg, #9d3bad, #c1a0e0);
+    color: #ffffff;
+    border-radius: 25rem;
+    border: none;
+}
